@@ -3,6 +3,7 @@
 - 📚 I’m currently learning Go
 - ⚡ Fun fact: i´m a Funny guy
 - 🌎 I'm from Florianópolis, Sc - Brazil
+- 🎮 Gamer in my free time
 -->
 
 ### Social Media 📲
