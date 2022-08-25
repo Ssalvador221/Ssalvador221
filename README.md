@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my profile in Github! I´m João Salvador and Nice to meet you!👋
 
 - 📚 I’m currently learning Go
 - ⚡ Fun fact: i´m a Funny guy
