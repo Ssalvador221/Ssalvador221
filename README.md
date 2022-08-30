@@ -5,7 +5,7 @@
 - 🌎 I'm from Florianópolis, Sc - Brazil
 - 🎮 Gamer in my free time
 
-<div align="float">
+<div align="right-float">
 <img src="https://user-images.githubusercontent.com/82125523/186776135-39ac4a4b-1ac4-4d0f-b98b-4c1060716edc.png" width="600px" />
 </div>
 
