@@ -16,4 +16,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao.svd/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-salvador-rizzo/)
 
-![Salvador GitHub stats](https://github-readme-stats.vercel.app/api?username=Ssalvador221&show_icons=true&theme=chartreuse-dark) [![Salvador Github Stats](https://github-readme-stats.vercel.app/api/pin/?username=Ssalvador221&repo=github-readme-stats)](https://github.com/Ssalvador221/github-readme-stats)
+![Salvador GitHub stats](https://github-readme-stats.vercel.app/api?username=Ssalvador221&show_icons=true&theme=chartreuse-dark)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
