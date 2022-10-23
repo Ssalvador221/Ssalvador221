@@ -1,6 +1,6 @@
 ### Welcome to my profile in Github! I´m João Salvador and Nice to meet you!👋
 
-- 📚 I’m currently learning Go, Java Script, Java and SQL
+- 📚 I’m currently learning Go, Java, Kotlin and SQL
 - ⚡ Fun fact: i´m a Funny guy
 - 🌎 I'm from Florianópolis, Sc - Brazil
 - 🎮 Gamer in my free time
