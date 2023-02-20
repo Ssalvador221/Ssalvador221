@@ -1,8 +1,8 @@
 ### Welcome to my profile in Github! I´m João Salvador and Nice to meet you!👋
 
-- 📚 I’m currently learning Android Studio, IOS, Golang, Kotlin and SQL
-- ⚡ Fun fact: i´m a Funny guy
 - 🌎 I'm from Florianópolis, Sc - Brazil
+- 📚 I’m currently on College
+- ⚡ Fun fact: i´m a Funny guy
 - 🎮 Gamer in my free time
 <div align="right">
 <img src="https://user-images.githubusercontent.com/82125523/186776135-39ac4a4b-1ac4-4d0f-b98b-4c1060716edc.png" width="600px" />
