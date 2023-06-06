@@ -1,4 +1,4 @@
-### Welcome to my profile in Github! I´m João Salvador and Nice to meet you!👋
+### Welcome to my profile in Github! I´m João Salvador and gled to meet you!👋
 
 - 🌎 I'm from Florianópolis, Sc - Brazil
 - 📚 I’m currently on College
