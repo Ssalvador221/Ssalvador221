@@ -1,11 +1,12 @@
 ### Welcome to my profile in Github! I´m João Salvador and glad to meet you!👋
 
 - 🌎 I'm from Florianópolis, Sc - Brazil
-- 📚 I’m currently on College
+- 📚 I’m currently studying Golang
 - ⚡ Fun fact: i´m a Funny guy
 - 🎮 Gamer in my free time
+  
 <div align="right">
-<img align="right" width="300" src="https://user-images.githubusercontent.com/82125523/186776135-39ac4a4b-1ac4-4d0f-b98b-4c1060716edc.png" width="600px" align "right"/>
+<img align="right"  width="600px" src="https://user-images.githubusercontent.com/82125523/186776135-39ac4a4b-1ac4-4d0f-b98b-4c1060716edc.png"/>
 </div>
 
 ### Social Media 📲
