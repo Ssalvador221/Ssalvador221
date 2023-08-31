@@ -5,7 +5,7 @@
 - ⚡ Fun fact: i´m a Funny guy
 - 🎮 Gamer in my free time
 <div align="right">
-<img src="https://user-images.githubusercontent.com/82125523/186776135-39ac4a4b-1ac4-4d0f-b98b-4c1060716edc.png" width="600px" align "right"/>
+<img align="right" width="300" src="https://user-images.githubusercontent.com/82125523/186776135-39ac4a4b-1ac4-4d0f-b98b-4c1060716edc.png" width="600px" align "right"/>
 </div>
 
 ### Social Media 📲
