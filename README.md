@@ -1,9 +1,9 @@
 ### Welcome to my profile in Github! I´m João Salvador and glad to meet you!👋
 
 - 🌎 I'm from Florianópolis, Sc - Brazil
-- ✨ I speak three languages: 🇧🇷 🇦🇷 🇺🇸
-- 📚 I’m currently studying Golang
-- ⚡ Fun fact: i´m a Funny guy
+- 😎  I'm not shy and I'm very extrovert
+- 📚 I’m currently studying Golang and my personal development
+- ⚡ Fun fact: I speak three languages Portuguese, Spanish and English
 - 🎮 Gamer in my free time
   
 <div align="right">
