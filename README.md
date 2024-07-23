@@ -6,11 +6,6 @@
 - ⚡ Fun fact: I speak three languages Portuguese, Spanish and English
 - 🎮 Gamer in my free time
   
-<div align="right">
-<img align="right" width="450px" src="https://user-images.githubusercontent.com/82125523/186776135-39ac4a4b-1ac4-4d0f-b98b-4c1060716edc.png"/>
-</div>
-
-
 ## 📲 Social Media
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao.svd/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-salvador-rizzo/) 
