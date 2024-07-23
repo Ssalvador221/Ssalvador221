@@ -2,8 +2,8 @@
 
 - 🌎 I'm from Florianópolis, Sc - Brazil
 - 😎 A very extrovert guy
-- 📚 I’m currently studying Golang and my personal development
-- ⚡ Fun fact: I speak three languages Portuguese, Spanish and English
+- 📚 A developer which gains more experience day by day. Always learning something new.
+- ⚡ Fun fact: I speak three languages. Portuguese, Spanish and English.
 - 🎮 Gamer in my free time
   
 ## 📲 Social Media
