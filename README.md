@@ -11,10 +11,14 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-salvador-rizzo/) 
 
   
-![Valchan's github stats](https://github-readme-stats.vercel.app/api?username=ssalvador221&show_icons=true&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ssalvador221&theme=github_dark)
-<!--
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ssalvador221&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ssalvador221&theme=github_dark)
--->
-[![My Skills](https://skillicons.dev/icons?i=golang,typescript,javascript,react,nextjs,firebase,aws,git,linux,mongodb,mysql,docker&theme=dark)](https://skillicons.dev)
+|GITHUB STATS|LANGUAGES|
+|:---:|:---:|
+|[![Gustavo Silva github stats](https://github-readme-stats.vercel.app/api?username=ssalvador221&theme=midnight-purple&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)|![1](https://github-readme-stats.vercel.app/api/top-langs/?username=ssalvador221&theme=midnight-purple&layout=compact&langs_count=8)
+
+## Languages
+[![My Skills](https://skillicons.dev/icons?i=golang,typescript,flutter,dart,javascript,react,nextjs,firebase,aws,git,linux,mongodb,mysql,docker&theme=dark)](https://skillicons.dev)
+
+
+|GITHUB TROPHIES|
+|:---:|
+[![trophy](https://github-profile-trophy.vercel.app/?username=ssalvador221&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
