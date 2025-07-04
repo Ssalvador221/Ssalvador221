@@ -17,8 +17,3 @@
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=golang,typescript,flutter,dart,javascript,react,nextjs,firebase,aws,git,linux,mongodb,mysql,docker&theme=dark)](https://skillicons.dev)
-
-
-|GITHUB TROPHIES|
-|:---:|
-[![trophy](https://github-profile-trophy.vercel.app/?username=ssalvador221&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
