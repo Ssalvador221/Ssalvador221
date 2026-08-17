@@ -7,7 +7,7 @@
 - 🎮 Gamer in my free time
   
 ## 📲 Social Media
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-salvador-rizzo/) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-salvador-rizzo/) 
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=golang,typescript,flutter,dart,javascript,react,nextjs,firebase,aws,git,linux,mongodb,mysql,docker&theme=dark)](https://skillicons.dev)
